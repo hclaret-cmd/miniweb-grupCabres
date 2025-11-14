@@ -16,8 +16,8 @@ Aquest projecte és una **miniweb feta en equip** pels alumnes de **2n de DAW** 
 
 | Membre  | Rol / Tasca principal                         |
 |---------|-----------------------------------------------|
-| **Biel** | Estructura HTML bàsica (index.html)           |
-| **Victor** | Disseny i estilització amb CSS (style.css)     |
+| **Víctor** | Estructura HTML bàsica (index.html)           |
+| **Biel** | Disseny i estilització amb CSS (style.css)     |
 | **Hervé** | Contingut, imatges (img/), documentació (README.md) i gestió del repositori |
 
 ---
